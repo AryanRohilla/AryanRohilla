@@ -1,4 +1,17 @@
 
+# 💫 Hi 👋, I'm Aryan Rohilla  
+**A passionate Full-Stack Developer || DevOps Enthusiast from India**  
+---
+
+### 🚀 About Me  
+- 🔭 **Currently working on:** A LinkedIn-like social networking platform (Stories, Messaging, Connections, Real-time features)  
+- 🌱 **Currently learning:** Data Structure and Algorithm 
+- 🤝 **Looking to collaborate on:** Open-source Full-Stack & Cloud projects  
+- 💬 **Ask me about:** MERN Stack, REST APIs, Authentication, Cloud & DevOps  
+- ⚡ **Fun fact:** I love turning ideas into products 🚀  
+
+---
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aryan__0911) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aryanrohilla0911) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aryanrohilla369@gmail.com) 
 
